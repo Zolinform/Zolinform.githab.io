@@ -1,2 +1,2 @@
-# Zolinform.githab.io
+# Zolinform.github.io
 Demo page.
